@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/tomb_raider_goty_edition",
+    "east": "multiarkgamingeventservermod:blocks/tomb_raider_goty_edition",
+    "south": "multiarkgamingeventservermod:blocks/tomb_raider_goty_edition",
+    "west": "multiarkgamingeventservermod:blocks/tomb_raider_goty_edition",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

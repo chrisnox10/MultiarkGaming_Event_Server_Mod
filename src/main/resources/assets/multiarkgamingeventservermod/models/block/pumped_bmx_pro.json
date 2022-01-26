@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/pumped_bmx_pro",
+    "east": "multiarkgamingeventservermod:blocks/pumped_bmx_pro",
+    "south": "multiarkgamingeventservermod:blocks/pumped_bmx_pro",
+    "west": "multiarkgamingeventservermod:blocks/pumped_bmx_pro",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

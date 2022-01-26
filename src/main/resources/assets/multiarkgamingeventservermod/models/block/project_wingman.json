@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/project_wingman",
+    "east": "multiarkgamingeventservermod:blocks/project_wingman",
+    "south": "multiarkgamingeventservermod:blocks/project_wingman",
+    "west": "multiarkgamingeventservermod:blocks/project_wingman",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

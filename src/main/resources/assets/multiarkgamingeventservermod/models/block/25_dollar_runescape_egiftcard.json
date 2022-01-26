@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/25_dollar_runescape_egiftcard",
+    "east": "multiarkgamingeventservermod:blocks/25_dollar_runescape_egiftcard",
+    "south": "multiarkgamingeventservermod:blocks/25_dollar_runescape_egiftcard",
+    "west": "multiarkgamingeventservermod:blocks/25_dollar_runescape_egiftcard",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

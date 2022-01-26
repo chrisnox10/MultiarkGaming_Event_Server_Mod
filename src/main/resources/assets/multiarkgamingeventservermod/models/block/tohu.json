@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/tohu",
+    "east": "multiarkgamingeventservermod:blocks/tohu",
+    "south": "multiarkgamingeventservermod:blocks/tohu",
+    "west": "multiarkgamingeventservermod:blocks/tohu",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

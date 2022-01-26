@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/yooka_laylee_and_the_impossible_lair",
+    "east": "multiarkgamingeventservermod:blocks/yooka_laylee_and_the_impossible_lair",
+    "south": "multiarkgamingeventservermod:blocks/yooka_laylee_and_the_impossible_lair",
+    "west": "multiarkgamingeventservermod:blocks/yooka_laylee_and_the_impossible_lair",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="36,)"
+license="MIT License"
+#issueTrackerURL="http://hanaryoko.com/"
+
+[[mods]]
+modId="multiarkgamingeventservermod"
+version="0.0.1"
+displayName="MultiArkGaming Event Server Mod"
+#updateJSONURL="http://hanaryoko.com/updates.json"
+displayURL="http://hanaryoko.com/"
+#logoFile="multiarkgamingeventservermod.png"
+#credits="Thanks to Mojang for making a a game for us to mod. Thanks to the Forge team for the tools to be able to make mods."
+authors="Hana Ryoko"
+description='''
+This mod is built to work on the event server for MultiArkGaming.
+
+This mod is not intended to be used anywhere else. Rewards earned on servers that are not run by us will not result in earning the listed prize.
+
+We hope you have fun and enjoy the use of out servers.
+'''
+
+[[dependencies.multiarkgamingeventservermod]]
+modId="forge"
+mandatory=true
+versionRange="[36,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.multiarkgamingeventservermod]]
+modId="minecraft"
+mandatory=true
+versionRange="1.16.5"
+ordering="NONE"
+side="BOTH"

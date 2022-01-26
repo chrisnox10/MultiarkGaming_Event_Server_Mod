@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/endzone_a_world_apart",
+    "east": "multiarkgamingeventservermod:blocks/endzone_a_world_apart",
+    "south": "multiarkgamingeventservermod:blocks/endzone_a_world_apart",
+    "west": "multiarkgamingeventservermod:blocks/endzone_a_world_apart",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

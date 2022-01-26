@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/just_cause_3",
+    "east": "multiarkgamingeventservermod:blocks/just_cause_3",
+    "south": "multiarkgamingeventservermod:blocks/just_cause_3",
+    "west": "multiarkgamingeventservermod:blocks/just_cause_3",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

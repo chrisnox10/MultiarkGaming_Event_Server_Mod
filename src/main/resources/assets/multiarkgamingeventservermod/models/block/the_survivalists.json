@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/the_survivalists",
+    "east": "multiarkgamingeventservermod:blocks/the_survivalists",
+    "south": "multiarkgamingeventservermod:blocks/the_survivalists",
+    "west": "multiarkgamingeventservermod:blocks/the_survivalists",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

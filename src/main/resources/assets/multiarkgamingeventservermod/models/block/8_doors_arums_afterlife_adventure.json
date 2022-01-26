@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/8_doors_arums_afterlife_adventure",
+    "east": "multiarkgamingeventservermod:blocks/8_doors_arums_afterlife_adventure",
+    "south": "multiarkgamingeventservermod:blocks/8_doors_arums_afterlife_adventure",
+    "west": "multiarkgamingeventservermod:blocks/8_doors_arums_afterlife_adventure",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

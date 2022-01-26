@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/partisans_1941",
+    "east": "multiarkgamingeventservermod:blocks/partisans_1941",
+    "south": "multiarkgamingeventservermod:blocks/partisans_1941",
+    "west": "multiarkgamingeventservermod:blocks/partisans_1941",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

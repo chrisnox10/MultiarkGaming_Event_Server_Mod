@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/wingspan",
+    "east": "multiarkgamingeventservermod:blocks/wingspan",
+    "south": "multiarkgamingeventservermod:blocks/wingspan",
+    "west": "multiarkgamingeventservermod:blocks/wingspan",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

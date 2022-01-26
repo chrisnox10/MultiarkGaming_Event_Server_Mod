@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/lacuna_a_sci_fi_noir_adventure",
+    "east": "multiarkgamingeventservermod:blocks/lacuna_a_sci_fi_noir_adventure",
+    "south": "multiarkgamingeventservermod:blocks/lacuna_a_sci_fi_noir_adventure",
+    "west": "multiarkgamingeventservermod:blocks/lacuna_a_sci_fi_noir_adventure",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

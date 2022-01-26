@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/greak_memories_of_azur",
+    "east": "multiarkgamingeventservermod:blocks/greak_memories_of_azur",
+    "south": "multiarkgamingeventservermod:blocks/greak_memories_of_azur",
+    "west": "multiarkgamingeventservermod:blocks/greak_memories_of_azur",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

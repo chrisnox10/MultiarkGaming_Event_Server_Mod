@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/lego_harry_potter_years_1_4",
+    "east": "multiarkgamingeventservermod:blocks/lego_harry_potter_years_1_4",
+    "south": "multiarkgamingeventservermod:blocks/lego_harry_potter_years_1_4",
+    "west": "multiarkgamingeventservermod:blocks/lego_harry_potter_years_1_4",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

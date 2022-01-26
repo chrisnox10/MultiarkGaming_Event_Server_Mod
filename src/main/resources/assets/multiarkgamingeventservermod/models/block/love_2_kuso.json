@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/love_2_kuso",
+    "east": "multiarkgamingeventservermod:blocks/love_2_kuso",
+    "south": "multiarkgamingeventservermod:blocks/love_2_kuso",
+    "west": "multiarkgamingeventservermod:blocks/love_2_kuso",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

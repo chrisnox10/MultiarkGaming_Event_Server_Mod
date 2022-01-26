@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/discord_nitro_1_year",
+    "east": "multiarkgamingeventservermod:blocks/discord_nitro_1_year",
+    "south": "multiarkgamingeventservermod:blocks/discord_nitro_1_year",
+    "west": "multiarkgamingeventservermod:blocks/discord_nitro_1_year",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

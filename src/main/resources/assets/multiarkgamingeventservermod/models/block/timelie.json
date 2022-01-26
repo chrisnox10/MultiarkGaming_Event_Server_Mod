@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/timelie",
+    "east": "multiarkgamingeventservermod:blocks/timelie",
+    "south": "multiarkgamingeventservermod:blocks/timelie",
+    "west": "multiarkgamingeventservermod:blocks/timelie",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

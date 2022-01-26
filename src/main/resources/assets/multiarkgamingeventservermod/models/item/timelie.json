@@ -1,0 +1,22 @@
+{
+  "parent": "multiarkgamingeventservermod:block/middle_earth_shadow_of_mordor_game_of_the_year_edition",
+  "display": {
+    "thirdperson": {
+      "rotation": [
+        10,
+        -45,
+        170
+      ],
+      "translation": [
+        0,
+        1.5,
+        -2.75
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    }
+  }
+}

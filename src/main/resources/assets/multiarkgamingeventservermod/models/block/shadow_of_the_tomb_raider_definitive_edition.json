@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/shadow_of_the_tomb_raider_definitive_edition",
+    "east": "multiarkgamingeventservermod:blocks/shadow_of_the_tomb_raider_definitive_edition",
+    "south": "multiarkgamingeventservermod:blocks/shadow_of_the_tomb_raider_definitive_edition",
+    "west": "multiarkgamingeventservermod:blocks/shadow_of_the_tomb_raider_definitive_edition",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/railway_empire",
+    "east": "multiarkgamingeventservermod:blocks/railway_empire",
+    "south": "multiarkgamingeventservermod:blocks/railway_empire",
+    "west": "multiarkgamingeventservermod:blocks/railway_empire",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

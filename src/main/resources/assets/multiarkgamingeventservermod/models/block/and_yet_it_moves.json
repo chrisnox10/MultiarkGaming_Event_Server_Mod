@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/and_yet_it_moves",
+    "east": "multiarkgamingeventservermod:blocks/and_yet_it_moves",
+    "south": "multiarkgamingeventservermod:blocks/and_yet_it_moves",
+    "west": "multiarkgamingeventservermod:blocks/and_yet_it_moves",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

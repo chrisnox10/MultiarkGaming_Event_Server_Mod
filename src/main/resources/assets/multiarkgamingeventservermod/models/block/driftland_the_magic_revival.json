@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/driftland_the_magic_revival",
+    "east": "multiarkgamingeventservermod:blocks/driftland_the_magic_revival",
+    "south": "multiarkgamingeventservermod:blocks/driftland_the_magic_revival",
+    "west": "multiarkgamingeventservermod:blocks/driftland_the_magic_revival",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

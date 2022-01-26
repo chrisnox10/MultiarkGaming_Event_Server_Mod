@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/batman_arkham_knight",
+    "east": "multiarkgamingeventservermod:blocks/batman_arkham_knight",
+    "south": "multiarkgamingeventservermod:blocks/batman_arkham_knight",
+    "west": "multiarkgamingeventservermod:blocks/batman_arkham_knight",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

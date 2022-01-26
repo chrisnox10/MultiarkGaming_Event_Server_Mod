@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/kings_bounty_warriors_of_the_north",
+    "east": "multiarkgamingeventservermod:blocks/kings_bounty_warriors_of_the_north",
+    "south": "multiarkgamingeventservermod:blocks/kings_bounty_warriors_of_the_north",
+    "west": "multiarkgamingeventservermod:blocks/kings_bounty_warriors_of_the_north",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

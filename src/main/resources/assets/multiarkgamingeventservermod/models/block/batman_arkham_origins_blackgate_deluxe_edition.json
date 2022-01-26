@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/batman_arkham_origins_blackgate_deluxe_edition",
+    "east": "multiarkgamingeventservermod:blocks/batman_arkham_origins_blackgate_deluxe_edition",
+    "south": "multiarkgamingeventservermod:blocks/batman_arkham_origins_blackgate_deluxe_edition",
+    "west": "multiarkgamingeventservermod:blocks/batman_arkham_origins_blackgate_deluxe_edition",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

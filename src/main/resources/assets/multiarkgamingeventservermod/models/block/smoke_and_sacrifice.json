@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/smoke_and_sacrifice",
+    "east": "multiarkgamingeventservermod:blocks/smoke_and_sacrifice",
+    "south": "multiarkgamingeventservermod:blocks/smoke_and_sacrifice",
+    "west": "multiarkgamingeventservermod:blocks/smoke_and_sacrifice",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

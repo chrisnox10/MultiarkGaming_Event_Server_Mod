@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/wrath_aeon_of_ruin",
+    "east": "multiarkgamingeventservermod:blocks/wrath_aeon_of_ruin",
+    "south": "multiarkgamingeventservermod:blocks/wrath_aeon_of_ruin",
+    "west": "multiarkgamingeventservermod:blocks/wrath_aeon_of_ruin",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

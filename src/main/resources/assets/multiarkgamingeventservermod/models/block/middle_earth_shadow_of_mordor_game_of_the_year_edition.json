@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/middle_earth_shadow_of_mordor_game_of_the_year_edition",
+    "east": "multiarkgamingeventservermod:blocks/middle_earth_shadow_of_mordor_game_of_the_year_edition",
+    "south": "multiarkgamingeventservermod:blocks/middle_earth_shadow_of_mordor_game_of_the_year_edition",
+    "west": "multiarkgamingeventservermod:blocks/middle_earth_shadow_of_mordor_game_of_the_year_edition",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

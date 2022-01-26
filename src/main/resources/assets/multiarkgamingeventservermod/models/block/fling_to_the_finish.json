@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/fling_to_the_finish",
+    "east": "multiarkgamingeventservermod:blocks/fling_to_the_finish",
+    "south": "multiarkgamingeventservermod:blocks/fling_to_the_finish",
+    "west": "multiarkgamingeventservermod:blocks/fling_to_the_finish",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/lego_star_wars_the_force_awakens_deluxe_edition",
+    "east": "multiarkgamingeventservermod:blocks/lego_star_wars_the_force_awakens_deluxe_edition",
+    "south": "multiarkgamingeventservermod:blocks/lego_star_wars_the_force_awakens_deluxe_edition",
+    "west": "multiarkgamingeventservermod:blocks/lego_star_wars_the_force_awakens_deluxe_edition",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}

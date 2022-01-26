@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multiarkgamingeventservermod:blocks/mag_block_bottom",
+    "up": "multiarkgamingeventservermod:blocks/mag_block_top",
+    "north": "multiarkgamingeventservermod:blocks/turnip_boy_commits_tax_evasion",
+    "east": "multiarkgamingeventservermod:blocks/turnip_boy_commits_tax_evasion",
+    "south": "multiarkgamingeventservermod:blocks/turnip_boy_commits_tax_evasion",
+    "west": "multiarkgamingeventservermod:blocks/turnip_boy_commits_tax_evasion",
+    "particle": "multiarkgamingeventservermod:blocks/mag_block_bottom"
+  }
+}
